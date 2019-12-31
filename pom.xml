@@ -49,6 +49,17 @@
                 </exclusion>
             </exclusions>
         </dependency>
+
+
+<!--        自动资源管理，自动生成getter，setter，equals，hashCode和toString等！-->
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.8</version>
+            <scope>provided</scope>
+        </dependency>
+
+
     </dependencies>
 
 
