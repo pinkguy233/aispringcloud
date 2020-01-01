@@ -16,7 +16,6 @@ public interface UserDao {
 
    void seveOrUpdate(Student stu);
 
-
    void dalete(long id);
 
 }
